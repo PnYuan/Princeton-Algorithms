@@ -1,3 +1,3 @@
 # Princeton-Algorithms
 -----
-Code for Princeton-Algorithms on Coursera.
+Code for Princeton-Algorithms.
