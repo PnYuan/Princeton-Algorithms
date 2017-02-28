@@ -1,6 +1,6 @@
 # Princeton-Algorithms
 -----
-Code for Princeton-Algorithms.
+Code (in Java) for Princeton-Algorithms.
 
 
 ## Ch1.Fundamentals ##
