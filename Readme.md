@@ -2,9 +2,15 @@
 -----
 Code (in Java) for Princeton-Algorithms.
 
-ps.
+ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 
 ## [Ch1.Fundamentals](http://algs4.cs.princeton.edu/10fundamentals/) ##
+
+#### [1.4 Analysis of Algorithms](http://algs4.cs.princeton.edu/14analysis/) ####
+|  #   | Code | Summary |
+| ---- | ---- | ------- |
+|example|[TwoSum](./ch1_fundamentals/1.4_p2_TwoSum/)|use **binary search** to make it faster for **2-Sum problem**|
+|example|[Stopwatch](./ch1_fundamentals/1.4_p1_Stopwatch/)|get the run time of program|
 
 #### [1.3 Bags, Queues, Stacks](http://algs4.cs.princeton.edu/13stacks/) ####
 |  #   | Code | Summary |
