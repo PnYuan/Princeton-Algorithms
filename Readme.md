@@ -9,6 +9,7 @@ ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 #### [1.4 Analysis of Algorithms](http://algs4.cs.princeton.edu/14analysis/) ####
 |  #   | Code | Summary |
 | ---- | ---- | ------- |
+|creative problems 18,19|[local_minimum](./ch1_fundamentals/1.4_cp18_local_minimum/)|find the local minimum for array or matrix|
 |example|[TwoSum](./ch1_fundamentals/1.4_p2_TwoSum/)|use **binary search** to make it faster for **2-Sum problem**|
 |example|[Stopwatch](./ch1_fundamentals/1.4_p1_Stopwatch/)|get the run time of program|
 
