@@ -4,6 +4,13 @@ Code (in Java) for Princeton-Algorithms.
 
 ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 
+## [Ch2.Sorting](http://algs4.cs.princeton.edu/20sorting/) ##
+
+#### [2.1 Elementary Sorts](http://algs4.cs.princeton.edu/21elementary/) ####
+|  #   | Code | Summary |
+| ---- | ---- | ------- |
+|example|[Sort](./ch2_sorting/2.1_p1_Sort/)|implementation of **selection-sort** and **insertion-sort**|
+
 ## [Ch1.Fundamentals](http://algs4.cs.princeton.edu/10fundamentals/) ##
 
 #### [1.5 Union-Find](http://algs4.cs.princeton.edu/15uf/) ####
