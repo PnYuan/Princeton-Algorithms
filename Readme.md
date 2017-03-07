@@ -9,7 +9,8 @@ ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 #### [1.5 Union-Find](http://algs4.cs.princeton.edu/15uf/) ####
 |  #   | Code | Summary |
 | ---- | ---- | ------- |
-|web exercises|[how_many_tables](./ch1_fundamentals/1.5_we1_how_many_tables/)|use **union-find** to solve **how many tables** problem|
+|[web exercises](http://acm.hdu.edu.cn/showproblem.php?pid=3635)|[dragon_balls](./ch1_fundamentals/1.5_we2_dragon_balls/)|use **union-find** to solve **dragon_balls** problem (HDOJ 3635)|
+|[web exercises](http://acm.hdu.edu.cn/showproblem.php?pid=1213)|[how_many_tables](./ch1_fundamentals/1.5_we1_how_many_tables/)|use **union-find** to solve **how many tables** problem (HDOJ 1213)|
 |example|[UF](./ch1_fundamentals/1.5_p1_UF/)|**union-find** class based on **weight quick-union with path compression**|
 
 #### [1.4 Analysis of Algorithms](http://algs4.cs.princeton.edu/14analysis/) ####
