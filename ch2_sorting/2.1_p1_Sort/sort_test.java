@@ -9,13 +9,19 @@ public class sort_test {
         s.show(a);
         System.out.println();
         
-        //selection sort
+        // shell sort
+        s.shell_sort(a);
+        System.out.printf("array after insertion-sort: \n");
+        s.show(a);
+        System.out.println();
+        
+        // selection sort
         s.selection_sort(a);
         System.out.printf("array after selection-sort: \n");
         s.show(a);
         System.out.println();
         
-        //insertion sort
+        // insertion sort
         s.insertion_sort(a);
         System.out.printf("array after insertion-sort: \n");
         s.show(a);
