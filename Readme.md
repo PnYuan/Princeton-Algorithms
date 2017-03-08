@@ -9,7 +9,8 @@ ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 #### [2.1 Elementary Sorts](http://algs4.cs.princeton.edu/21elementary/) ####
 |  #   | Code | Summary |
 | ---- | ---- | ------- |
-|example|[Sort](./ch2_sorting/2.1_p1_Sort/)|implementation of **selection-sort** and **insertion-sort**|
+|example|[VisualSort](./ch2_sorting/2.1_p2_VisualSort/)|visualization of sorting process|
+|example|[Sort](./ch2_sorting/2.1_p1_Sort/)|implementation of **selection-sort**, **insertion-sort** and **shell-sort**|
 
 ## [Ch1.Fundamentals](http://algs4.cs.princeton.edu/10fundamentals/) ##
 
