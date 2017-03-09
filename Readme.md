@@ -6,6 +6,11 @@ ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 
 ## [Ch2.Sorting](http://algs4.cs.princeton.edu/20sorting/) ##
 
+#### [2.2 Mergesort](http://algs4.cs.princeton.edu/22mergesort//) ####
+|  #   | Code | Summary |
+| ---- | ---- | ------- |
+|example|[MergeSort](./ch2_sorting/2.2_p1_MergeSort/)|implementation of **merge-sort**, including top-down & buttom-up|
+
 #### [2.1 Elementary Sorts](http://algs4.cs.princeton.edu/21elementary/) ####
 |  #   | Code | Summary |
 | ---- | ---- | ------- |
