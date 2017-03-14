@@ -6,7 +6,18 @@ ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 
 ## [Ch2.Sorting](http://algs4.cs.princeton.edu/20sorting/) ##
 
-#### [2.2 Mergesort](http://algs4.cs.princeton.edu/22mergesort//) ####
+
+#### [2.4 Priority Queues](http://algs4.cs.princeton.edu/24pq/) ####
+|  #   | Code | Summary |
+| ---- | ---- | ------- |
+|example|[Heap](./ch2_sorting/2.4_p2_Heap/)|implementation of **heap** and**heap-sort**|
+
+#### [2.3 Quicksort](http://algs4.cs.princeton.edu/23quicksort/) ####
+|  #   | Code | Summary |
+| ---- | ---- | ------- |
+|example|[QuickSort](./ch2_sorting/2.3_p1_QuickSort/)|implementation of **quick-sort**|
+
+#### [2.2 Mergesort](http://algs4.cs.princeton.edu/22mergesort/) ####
 |  #   | Code | Summary |
 | ---- | ---- | ------- |
 |example|[MergeSort](./ch2_sorting/2.2_p1_MergeSort/)|implementation of **merge-sort**, including top-down & buttom-up|
