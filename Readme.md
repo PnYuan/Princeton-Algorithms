@@ -4,8 +4,17 @@ Code (in Java) for Princeton-Algorithms.
 
 ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 
-## [Ch2.Sorting](http://algs4.cs.princeton.edu/20sorting/) ##
 
+## [Ch3.Searching](http://algs4.cs.princeton.edu/30searching/) ##
+
+
+#### [3.1 Symbol Tables](http://algs4.cs.princeton.edu/31elementary/) ####
+|  #   | Code | Summary |
+| ---- | ---- | ------- |
+|exercises 2|[Array_ST](./ch3_searching/3.1_e2_Array_ST/)|implementation of **symbol table** based on **array**|
+|exercises 1|[GPA](./ch3_searching/3.1_e1_GPA/)|using **symbol table** to calculate the total GPA of list of grades|
+
+## [Ch2.Sorting](http://algs4.cs.princeton.edu/20sorting/) ##
 
 #### [2.4 Priority Queues](http://algs4.cs.princeton.edu/24pq/) ####
 |  #   | Code | Summary |
