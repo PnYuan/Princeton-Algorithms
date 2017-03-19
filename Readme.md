@@ -7,6 +7,10 @@ ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 
 ## [Ch3.Searching](http://algs4.cs.princeton.edu/30searching/) ##
 
+#### [3.2 Binary Search Tree](http://algs4.cs.princeton.edu/32bst/) ####
+|  #   | Code | Summary |
+| ---- | ---- | ------- |
+|example|[BST](./ch3_searching/3.2_p1_BST/)|implementation of **symbol table** using **binary search tree(BST)**|
 
 #### [3.1 Symbol Tables](http://algs4.cs.princeton.edu/31elementary/) ####
 |  #   | Code | Summary |
