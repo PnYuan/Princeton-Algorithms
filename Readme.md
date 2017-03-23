@@ -7,6 +7,11 @@ ps. p = examples, e = exercises, cp = creative problems, we = web exercises;
 
 ## [Ch3.Searching](http://algs4.cs.princeton.edu/30searching/) ##
 
+#### [3.3 Balanced Search Trees](http://algs4.cs.princeton.edu/33balanced/) ####
+|  #   | Code | Summary |
+| ---- | ---- | ------- |
+|example|[RedBlackTree](./ch3_searching/3.3_RedBlackTree/)|implementation of **symbol table** based on **red-black BST**|
+
 #### [3.2 Binary Search Tree](http://algs4.cs.princeton.edu/32bst/) ####
 |  #   | Code | Summary |
 | ---- | ---- | ------- |
